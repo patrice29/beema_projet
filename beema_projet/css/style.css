@@ -1,4 +1,62 @@
-.topcontent{
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.headerstyle{
+    background-color: black;
+    height: 100vh;
+    background-image: url("../assets/images/phototablete.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.navigationstyle{
+    display: flex;
+    justify-content: space-between;
+}
+.navcontentright{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+.logostyle{
+    width: 35px;
+    height: 35px;
+}
+.nomstyle{
+    font-weight: bold;
+    font-size: 20px ;
+    color: white;
+}
+.nomtext{
+    padding: 5px;
+    
+}
+.navcontentleft{
+    display: flex;
+    justify-content: space-between;
+}
+.getstyle{
+    display: flex;
+    margin: 10px;
+}
+.gettext{
+    margin: 10px;
+    padding: 7px;
+    background-color:#00D8B1 ;
+    color: white;
+    border-radius: 6px;
+}
+.loginstyle{ 
+   display: flex;
+    margin: 10px; 
+}
+.logintext{
+    margin: 10px;
+    padding: 7px;
+    color: white;
+   
+}
+/* .topcontent{
     background-color: black;
     height: 100vh;
 }
@@ -199,3 +257,4 @@ aside img
 }
 
 
+ */
