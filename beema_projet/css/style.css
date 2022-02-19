@@ -53,8 +53,47 @@ body{
 .logintext{
     margin: 10px;
     padding: 7px;
+    color: white;  
+}
+.logobox{
+    margin: 10px;
+    text-align: center;
+}
+.logoimg{
+    height: 45px;
+    padding: 45px;
+    margin: 10px;
+}
+.nomstyle{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500px;
+    font-size: 20px;
+    color: white; 
+}
+.headertitre{
     color: white;
-   
+}
+.heatitre{
+    color: white;
+    height: 70px;
+    text-align: center; 
+}
+.titre{
+    text-align: center;
+    justify-content: center;
+}
+.starprojet{
+    text-align: center;
+    color: white;
+}
+.starstyle{
+    margin: 20px;
+}
+.startext{
+    background-color: #00D8B1;
+    padding: 7px;
+    border-radius: 5px;
 }
 /* .topcontent{
     background-color: black;
