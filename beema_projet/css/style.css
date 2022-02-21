@@ -1,13 +1,19 @@
 body{
     margin: 0px;
     padding: 0px;
+    font-family: Roboto !important;
 }
 .headerstyle{
-    background-color: black;
+ 
     height: 100vh;
     background-image: url("../assets/images/phototablete.jpg");
+    opacity: 0,75;
     background-size: cover;
     background-repeat: no-repeat;
+}
+.overlay{
+    background: rgba(53, 53, 53, 0.75);
+    height: 100vh;
 }
 .navigationstyle{
     display: flex;
@@ -45,6 +51,7 @@ body{
     background-color:#00D8B1 ;
     color: white;
     border-radius: 6px;
+    font-family: Roboto !important;
 }
 .loginstyle{ 
    display: flex;
@@ -53,6 +60,7 @@ body{
 .logintext{
     margin: 10px;
     padding: 7px;
+    font-family: Roboto !important;
     color: white;  
 }
 .logobox{
@@ -61,15 +69,15 @@ body{
 }
 .logoimg{
     height: 45px;
-    padding: 45px;
+    padding-top: 50px;
     margin: 10px;
 }
-.nomstyle{
-    font-family: Roboto;
-    font-style: normal;
+.beemastyle{
+    font-weight: bold;
+    font-style: 20px;
     font-weight: 500px;
-    font-size: 20px;
-    color: white; 
+    font-size: 40px;
+    color: #00D8B1; 
 }
 .headertitre{
     color: white;
