@@ -103,6 +103,117 @@ body{
     padding: 7px;
     border-radius: 5px;
 }
+.topcorps{
+    background-color: white;   
+}
+.corps{
+    text-align: center;
+    color: black;
+}
+.webdevelopment{
+    display: flex;
+    justify-content: space-between;
+    margin: 200px;
+}
+.textweb1{
+
+}
+.mobile{
+    display: flex;
+    justify-content: space-between;
+    margin: 250px;
+}
+.web_development{
+    display: flex;
+    justify-content: space-between;
+    margin: 200px;
+}
+.Presentation{
+    color: black;
+    text-align: center;
+}
+.topexplication{
+    display: flex;
+    margin-bottom: 20px;
+}
+.explication{
+    flex: 1.2;
+    position: relative;
+    background-color:#00D8B1 ;
+    box-shadow: 0px 2px 5px #1c1a19;
+    border-radius: 5px;
+    padding: 20px;
+    color: white;
+    font-size: 0.9em;
+    margin: 100px;
+}
+.nom{
+    text-align: right;
+}
+.propriety{
+    text-align: center;
+}
+.rocket_launch{
+    display: flex;
+    justify-content: space-between;
+    margin: 90px;
+}
+.toppieds{
+    background-color: black;
+    height: 75vh;
+}
+.logopieds{
+    margin: 10px;
+    text-align: center;
+    padding-top: 100px;
+}
+.logopieds2{
+    width: 70px;
+    height: 70px;
+    margin: 10px;
+}
+.logostyle2{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+   color: white;
+}
+.logoStylepieds{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    color: #00D8B1;
+}
+.textpieds{
+    color: white;
+}
+.starText{
+    margin: 8px;
+    color: write; 
+    background-color: #00D8B1;
+    padding: 7px;
+    border-radius: 50px%;
+}
+.photo_patrice
+{
+    text-align: center;
+}
+.photo_gwladys
+{
+    text-align: left;
+}
+.photo 
+{   width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    position: absolute;
+    top: 135px;
+    left: 40px;
+}
+
+
 /* .topcontent{
     background-color: black;
     height: 100vh;
